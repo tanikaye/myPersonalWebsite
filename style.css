@@ -1,0 +1,20 @@
+body {
+  background: green;
+}
+
+.navigation {
+  text-align: center;
+  color: blueviolet;
+}
+
+.riverpic {
+  width: 400px;
+  height: 300px;
+  margin: 40px;
+}
+
+.eiffel {
+  width: 400px;
+  height: 300px;
+  margin: 40px;
+}
